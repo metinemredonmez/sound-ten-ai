@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "agora-rtc-sdk-ng": "^4.21.0",
-    "axios": "^1.7.7",
+    "axios": "^1.20.0",
     "motion": "^12.23.24",
     "next": "^15.0.2",
     "ogl": "^1.0.11",
